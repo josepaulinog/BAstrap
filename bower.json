@@ -1,0 +1,20 @@
+{
+  "name": "BAStrap via SASS",
+  "version": "0.0.0",
+  "authors": [
+    "Davo Galavotti <davidgalavotti@gmail.com>",
+    "Nico Lound <nicolas.lound@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "bourbon": "~4.0.2"
+  }
+}
